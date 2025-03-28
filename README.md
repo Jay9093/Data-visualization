@@ -1,5 +1,5 @@
 # Data Visualization
-Various data plots created using **Matplotlib, Seaborn, and Joypy** for **Data Science Class at SRMIST**.
+Various data plots created using **Matplotlib, Seaborn, and Joypy** for **Data Science Class**.
 
 ## 📌 Introduction
 Data visualization is a crucial aspect of **Data Science** and **Machine Learning**. This repository contains sample Python code demonstrating different visualization techniques to understand and analyze datasets effectively.
@@ -71,5 +71,5 @@ Here are some sample visualizations generated from this project:
 Feel free to contribute to this project! If you have additional visualization ideas, open a pull request or create an issue.
 
 ---
-**Created for Data Science Class at SRMIST** 🎓📊
+**Created for Data Science Class** 🎓📊
 Happy coding!😊🙌
